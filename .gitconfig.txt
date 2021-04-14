@@ -1,0 +1,26 @@
+[user]
+	name = steven
+	email = b2977053@venus.lit.edu.tw
+[core]
+	editor = 'C:\\Program Files\\Notepad++\\notepad++.exe'
+[credential]
+	helper = manager
+[alias]
+	adda = add .
+	st = status
+	sts = status -s
+	cm = commit
+	lol = log --oneline
+	type = cat-file -t
+	dump = cat-file -p
+	b = branch
+	ba = branch -a
+	br = branch -r
+	co = checkout
+	remo = remote
+	remos = remote show
+	remoa = remote add
+	remod = remote remove
+	remoname = remote rename
+	remov = remote -v
+	df = diff
